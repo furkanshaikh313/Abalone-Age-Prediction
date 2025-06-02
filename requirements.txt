@@ -1,0 +1,15 @@
+streamlit
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+ucimlrepo
+requests
+statsmodels
+
+
+
+How to RUN:
+
+python3.11 -m streamlit run abalone.py
